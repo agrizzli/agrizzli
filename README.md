@@ -1,4 +1,9 @@
-## Hi there 👋
+## About me 👋
+
+I am AI and computer science expert with skills in natural language processing (NLP) and IT architectures. My current research focus is on the multi-target stance detection as an NLP task. I am passionate about natural languages in general, not only from a technical perspective. 
+
+I started my professional career as a web developer and had done it for many years, but switched to the field of AI later. Now I hold an MSc in Artificial Intelligence from the Universitat Politècnica de Catalunya and an MSc in Computer Science from the University of the Bundeswehr in Munich. I proceed doing my PhD at the latter one in a research project SPARTA.
+
 
 <!--
 **agrizzli/agrizzli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
